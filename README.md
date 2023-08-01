@@ -1,11 +1,3 @@
-# Instructions
-
-- clone this repo and open with your favorite code editor
-
-- make sure you are checked out to `master` branch
-
-- to run the app `npm install` then `npm start`
-
 ## Fixed the following issues
 
 1.  In the title of the header, it displays `5 orders` but there are `6 orders` in the table. We want to display the `total` number of `orders` in the header title **(Solved)**
@@ -22,8 +14,7 @@
 
 ![alt text](dashboard.JPG)
 
-## Bonus
-
-- run storybook `npm run storybook`
+## StoryBook
 
 1. Please add storybook to one of the components **(Tried)**
+2. Added a Story for the search bar component => src/component/search/Search.stories.jsx
