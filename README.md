@@ -1,3 +1,7 @@
+## Deployment Link
+
+https://steel-eye-front-end-task1.vercel.app/
+
 ## Fixed the following issues
 
 1.  In the title of the header, it displays `5 orders` but there are `6 orders` in the table. We want to display the `total` number of `orders` in the header title **(Solved)**
@@ -12,7 +16,6 @@
 
 6.  When user selects an order, can you populate the Card on top of the listing component as shown in the image **(Solved)**
 
-![alt text](dashboard.JPG)
 
 ## StoryBook
 
