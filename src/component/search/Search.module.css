@@ -1,0 +1,13 @@
+.search {
+    border-radius: 10px;
+    padding: 0.2em;
+}
+.small {
+    height: 0.5rem;
+}
+.medium {
+    height: 1rem;
+}
+.large {
+    height: 1.5rem;
+}
